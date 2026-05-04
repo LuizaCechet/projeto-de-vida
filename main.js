@@ -8,5 +8,4 @@ for(let i=0; i <botoes.legth; i++){
         }
         botoes[i].classList.add("ativo")
     }
-    console.log();
 }
